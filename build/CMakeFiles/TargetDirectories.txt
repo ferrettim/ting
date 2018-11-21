@@ -1,0 +1,17 @@
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/install.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/list_install_components.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/rebuild_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/edit_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/ting.desktop.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/Ting_ClickFiles.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/install/strip.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/CMakeFiles/install/local.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/install.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/list_install_components.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/rebuild_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/edit_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/install/local.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/pofiles_1.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/install/strip.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/ting.ting.pot.dir
+/media/martin/Media/Documents/UbuntuTouch/ting-master/build/po/CMakeFiles/pofiles.dir

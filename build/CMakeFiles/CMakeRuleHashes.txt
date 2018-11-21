@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+5cdba2e58c6df4440a2ab933afd18437 CMakeFiles/ting.desktop
+1960685af85dd60e708cfc4ab4471849 po/CMakeFiles/pofiles_1
+05588371ae21fbc2a2584ae278a001b5 po/CMakeFiles/ting.ting.pot
+c40fb5f9ff1cfe2b6fae3cc56a29b636 po/es.gmo
